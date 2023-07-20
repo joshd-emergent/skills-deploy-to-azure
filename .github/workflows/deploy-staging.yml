@@ -6,7 +6,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace <username> with GitHub username ###
+  ### Replace joshd-emergent with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: joshd-emergent-azure-ttt
   AZURE_WEBAPP_NAME: joshd-emergent-ttt-app
